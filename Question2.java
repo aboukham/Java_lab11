@@ -23,11 +23,11 @@ public class Question2 {
     //The output of this code:
     //a. if input is -1, the output is:
         //Error: Not zero
-        //Finally Clause Executed"
+        //Finally Clause Executed
     //b. if input is 0, the output is:
         //I'm happy with the input.
-        //Finally Clause Executed"
+        //Finally Clause Executed
     //c. if input is 12XY, the output is:
         //Invalid Entry
-        //Finally Clause Executed"
+        //Finally Clause Executed
 }
